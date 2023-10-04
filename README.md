@@ -3,7 +3,7 @@
 Connect 4 is a game that you can play in the terminal:
 This is a coursework assignment for the Principles of Programming course, where we aim to learn and apply Object-Oriented Programming (OOP) principles. 
 
-![image](https://github.com/SirSebLancelot/Connect4/assets/116905392/909f037d-6253-4239-89f1-5f96200533d4)
+![image](https://github.com/SirSebLancelot/terminalConnect4/assets/116905392/b56e2fb0-35ce-4773-83f2-fc9a672341da)
 
 ## Getting Started
 
